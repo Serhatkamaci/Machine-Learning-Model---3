@@ -6,8 +6,7 @@ Sentiment Program with Database
 # Otomasyon "Tablo Oluşturma, Veri Tabanına Bilgi Ekleme, Veri Tabanından Veri Silme, Cümle Değerlendirilmesi ve Program Sonlandır"
 # adlı bölümlerden oluşmaktadır.
 
-# Öncelikle Programa başlamak için verilen numaralandırmalardan Veri Tabanı Tablo Oluşturma bölümü çalıştırılıp sonra cümle değerlendirilme işlemlerine
-# geçilmelidir.
+# Öncelikle Programa başlamak için verilen numaralandırmalardan Veri Tabanı Tablo Oluşturma bölümü çalıştırılıp sonra cümle değerlendirilme işlemlerine geçilmelidir.
 
 
 # ----------------------------------------------- INFORMATION ABOUT THE SENTIMENT PROGRAM -----------------------------------------------
