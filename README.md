@@ -1,16 +1,13 @@
-# Machine-Learning-Model---3
-Sentiment Program with Database
-# SENTIMENT PROGRAMI HAKKINDA BILGI
+Bu program, kullanıcı tarafından girilen cümlelerin duygusal içeriğini belirleyerek pozitif veya negatif olarak sınıflandırmayı amaçlamaktadır. Ayrıca, kullanıcının girdiği cümleleri ve bu cümlelerin sınıflandırılmasını veri tabanına kaydedebilme özelliğine sahiptir. Otomasyon sistemi, aşağıdaki ana bölümlerden oluşmaktadır: "Tablo Oluşturma", "Veri Tabanına Bilgi Ekleme", "Veri Tabanından Veri Silme", "Cümle Değerlendirilmesi" ve "Program Sonlandırma".
 
-# Bu program girilen bir cümlenin pozitif veya negatif olduğunu belirler. Girilen cümle ve sonucu veri tabanına kaydedilir. 
-# Otomasyon "Tablo Oluşturma, Veri Tabanına Bilgi Ekleme, Veri Tabanından Veri Silme, Cümle Değerlendirilmesi ve Program Sonlandır" adlı bölümlerden oluşmaktadır.
+Öncelikle, programı başlatmak için numaralandırılmış adımlardan ilk olarak "Veri Tabanı Tablo Oluşturma" bölümü çalıştırılmalıdır. Bu adım, programın kullanacağı veri yapısını oluşturarak veri tabanının hazır hale getirilmesini sağlar. Daha sonra, kullanıcıların girdiği cümlelerin duygusal değerlendirmesi yapılabilir. Bu değerlendirme işlemi, cümlenin pozitif veya negatif olarak sınıflandırılmasıyla gerçekleşir ve sonuçlar veri tabanına kaydedilir.
 
-# Öncelikle Programa başlamak için verilen numaralandırmalardan Veri Tabanı Tablo Oluşturma bölümü çalıştırılıp sonra cümle değerlendirilme işlemlerine geçilmelidir.
+Bu otomasyon sistemi, kullanıcıların duygusal içerikli metinleri hızlı bir şekilde analiz etmelerine olanak tanırken, aynı zamanda bu verilerin uzun süreli saklanmasını ve yönetilmesini sağlayacak bir altyapı sunar.
 
+--------------------------------------------------
 
-#  INFORMATION ABOUT THE SENTIMENT PROGRAM 
+This program aims to determine whether a given sentence is positive or negative by analyzing its emotional content. It also features functionality to store the entered sentences and their evaluations in a database. The automation system consists of the following main sections: "Table Creation," "Adding Information to the Database," "Deleting Data from the Database," "Sentence Evaluation," and "Program Termination."
 
-# This program determines whether an entered sentence is positive or negative. The entered sentence and its result are saved in the database. 
-# Automation consists of sections called "Creating a Table, Adding Information to the Database, Deleting Data from the Database, Evaluating the Sentence and Ending the Program".
+To begin with, the program should execute the "Database Table Creation" section from the numbered steps provided. This step initializes the data structure used by the program and prepares the database for operation. Subsequently, the system can proceed to evaluate the emotional content of sentences entered by users. This evaluation process involves categorizing the sentences as either positive or negative, and the results are then stored in the database.
 
-# First of all, to start the program, the Database Table Creation section should be run from the given enumerations and then sentence evaluation processes should be started.
+This automation system enables users to quickly analyze emotionally charged texts while providing infrastructure for long-term storage and management of these data.
